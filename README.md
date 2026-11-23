@@ -13,6 +13,7 @@ I build end-to-end AI systems that cover the data pipeline, the model and evalua
 
 | Project | Highlights |
 |---|---|
+| 🌐 [**ASEC Automation website**](https://www.asecautomation.com) · [code](https://github.com/Asec-automation/asec-website) | Corporate website I designed and developed end to end. React + TypeScript, prerendered 46 pages, English & Arabic, careers platform with CV uploads and an HR admin inbox (Cloudflare Worker + KV), CSP security, deployed with GitHub Actions + Pages |
 | [**AI Engineering Portfolio**](https://github.com/Saraelabzari/Sara-AI-Engineering-Portfolio) | 14 tested Python projects across industrial AI, ML, NLP and computer vision, with CI on every push |
 | [Predictive Maintenance — RUL](https://github.com/Saraelabzari/Sara-AI-Engineering-Portfolio/tree/main/projects/predictive-maintenance-rul) | Fleet health dashboard, train/test split by machine, RUL MAE 4.2 vs 36.8 for the baseline |
 | [Energy Load Forecasting](https://github.com/Saraelabzari/Sara-AI-Engineering-Portfolio/tree/main/projects/energy-load-forecasting) | Gradient boosting that beats the seasonal-naive baseline, MAPE 2.2 % |
